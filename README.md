@@ -7,4 +7,4 @@ Almost 100% based on Tim Toner's Tiny Matrix: https://sites.google.com/site/tiny
 
 My modifications:
 * a counter will switch the character every ~12 seconds
-* it now fits in the 2k of the ATTiny2313
+* it now fits in the 2k of the ATTiny2313 with 8 bytes to spare :)
